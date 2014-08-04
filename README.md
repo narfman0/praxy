@@ -36,3 +36,8 @@ Limitations
 Currently bad things happen when using a different port, like 8000. Use 80,
 else change settings in Vagrantfile and your server(s) to host files
 appropriately.
+
+License
+-------
+
+See included LICENSE for license information.
