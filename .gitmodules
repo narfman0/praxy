@@ -1,0 +1,3 @@
+[submodule "php-simple-proxy"]
+	path = php-simple-proxy
+	url = git://github.com/narfman0/php-simple-proxy.git
